@@ -1,0 +1,29 @@
+.header-links li:not(:last-child) {
+    margin: 1px 110px 0px 3px !important;
+}
+
+@media only screen and (max-width: 768px) {
+.visib
+{
+    visibility: hidden;
+}
+}
+
+@media only screen and (min-width: 768px) {
+    .visibi
+    {
+        visibility: hidden;
+    }
+    }
+
+    
+
+
+    .client-img {
+        border: 1px solid #ddd;
+        padding: 10px 20px;
+        width: 100%;
+        transition: all .2s linear;
+        margin-bottom: 20px;
+        text-align: center;
+    }
